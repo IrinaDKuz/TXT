@@ -1,0 +1,4 @@
+skil_1 : Terminal,
+skil_2 : GIT,
+skil_3 : Testing,
+skil_4 : Soft skils
